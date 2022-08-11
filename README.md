@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fl3dgling, but you may call me Reign.
+- 👋 Hi, I’m @Fl3dgling, but you may call me Fledge.
 - 👀 I’m interested in Motorcycles, Computer games, Technology and Programming.
 - 🌱 I’m currently learning Introduction to CS50, I'm a newbie in tech world specially in programming
 - 💞️ I’m looking to collaborate on (I'll update this soon)
